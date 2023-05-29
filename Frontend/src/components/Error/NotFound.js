@@ -3,7 +3,7 @@ import './NotFound.css';
 function NotFound() {
   return (
         <div className='notfound' data-testid="fallback-component">
-        <h1>404 - Page Not Found</h1>
+        <p>404 - Page Not Found</p>
         <p>Sorry, the page you're looking for does not exist.</p>
       </div>
   )

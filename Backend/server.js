@@ -1,4 +1,4 @@
-// server.js
+
 const express = require('express');
 const { ApolloServer } = require('apollo-server-express');
 const { PrismaClient } = require('@prisma/client');
