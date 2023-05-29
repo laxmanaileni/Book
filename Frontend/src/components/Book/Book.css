@@ -1,0 +1,36 @@
+.book {
+  background: #9bd4e2;
+  padding: 1rem;
+  border-radius: 10px;
+}
+.book .bookDetail {
+  line-height: 15px;
+  font-size: 14px;
+}
+.book .buttons {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.edit {
+  margin-left: 15px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  background-color: rgb(16, 175, 40);
+  color: white;
+}
+.delete {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  background-color: rgb(226, 11, 11);
+  color: white;
+}
+
+.book-title {
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Cinzel Decorative', cursive;
+}

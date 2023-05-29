@@ -1,0 +1,29 @@
+.searchingandsorting {
+  width: auto;
+  margin: 10px 0px;
+  display: flex;
+}
+
+.sort-book {
+  width: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.sort-book select {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+}
+
+.search-book input {
+  width: 150%;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+}
+
+.search-book input::placeholder {
+  color: #aaa;
+  padding: initial;
+}
